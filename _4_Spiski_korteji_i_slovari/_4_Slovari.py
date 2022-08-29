@@ -90,7 +90,36 @@ for key in users7:
 for key,value in users7.items():
     print(f"Phone: {key} User: {value}")
 
+for value in users7.values():
+    print(value)
 
+for key in users7.keys():
+    print(key)
+print("Завершение программы\n")
+
+users8 = {
+    "Tom":{
+        "phone": "+11111",
+        "email": "tom12@gmail.com"
+    },
+    "Bob":{
+        "phone":"+22222",
+        "email":"bob11@gmail.com",
+        "skype":"bob123"
+    }
+}
+
+old_email = users8["Tom"]["email"]
+print(old_email)
+users8["Tom"]["email"] = "supertom@gmail.com"
+print(users8["Tom"])
+print("Завершение программы\n")
+
+key = "skype"
+if key in users8["Tom"]:
+    print(users8["Tom"]["skype"])
+else:
+    print("skype is not found")
 
 
 
