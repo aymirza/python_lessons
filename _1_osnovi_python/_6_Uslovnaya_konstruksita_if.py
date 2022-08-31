@@ -2,7 +2,7 @@ print("Условная конструкция if")
 language1 = "english"
 if language1 == "english":
     print("Hello")
-print("End-1 if\n")
+print("End-_1_Otkiritie_i_zakritie_faylovv if\n")
 
 
 language2 = "russian"

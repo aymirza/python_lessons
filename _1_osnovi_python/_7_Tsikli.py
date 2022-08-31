@@ -1,4 +1,4 @@
-print("Цикл while-1")
+print("Цикл while-_1_Otkiritie_i_zakritie_faylovv")
 number = 1
 while number <= 5:
     print(f"number = {number}")
@@ -15,7 +15,7 @@ else:
 print("Работа программы завершена\n")
 
 
-print("Цикл for-1")
+print("Цикл for-_1_Otkiritie_i_zakritie_faylovv")
 message = "hello"
 for c in message:
     print(c)

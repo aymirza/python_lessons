@@ -24,7 +24,7 @@ print("Завершение программы\n")
 
 # Получение подкортежей
 tom = ("Tom",37,"Google","software developer")
-# получаем подкортеж с 1 по 3 элемента(не включая)
+# получаем подкортеж с _1_Otkiritie_i_zakritie_faylovv по 3 элемента(не включая)
 print(tom[1:3])
 print(tom[:3])
 print(tom[1:])

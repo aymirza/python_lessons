@@ -41,7 +41,7 @@ print(index)
 print("\n")
 
 # Замена в строке
-phone = "+1-234-567-89-10"
+phone = "+_1_Otkiritie_i_zakritie_faylovv-234-567-89-10"
 
 # замена дефисов на пробел
 edited_phone = phone.replace("-"," ")

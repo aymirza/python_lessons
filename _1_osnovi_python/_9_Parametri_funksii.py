@@ -3,7 +3,7 @@ def say_hello(name):
 
 say_hello("Tom")
 say_hello("Aymirza")
-print("Программа завершена-1\n")
+print("Программа завершена-_1_Otkiritie_i_zakritie_faylovv\n")
 
 def print_person(name,age):
     print(f"Name: {name}")

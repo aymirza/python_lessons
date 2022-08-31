@@ -3,7 +3,7 @@ def say_hello():
 
 say_hello()
 print("Bye")
-print("Программа завершена-1\n")
+print("Программа завершена-_1_Otkiritie_i_zakritie_faylovv\n")
 
 
 def say_hello2():
